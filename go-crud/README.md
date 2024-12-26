@@ -72,6 +72,4 @@ This project is licensed under the MIT License. See the [LICENSE](../LICENSE) fi
 
 Contributions are welcome! Please feel free to submit issues or pull requests to improve this project.
 
-## Author
 
-Created by **Cedonulfi**.
